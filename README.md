@@ -9,13 +9,13 @@ The purpose of the challenge was to modify the existing web app to include Mars'
 Below are example images of the Flask web app display using different views and making minor changes to the CSS styles:
 
 - Regular Display 1
-    - [<image alt="Click Image for Full Size" src="./Results/Image1.PNG" width="200" height="400">](https://github.com/eldarias/Mission-to-Mars/blob/main/Results/Image1.PNG)<b></b>
+    - [<image src="./Results/Image1.PNG" width="200" height="400">](https://github.com/eldarias/Mission-to-Mars/blob/main/Results/Image1.PNG)<b></b>
 - Regular Display 2
-    - [<image alt="Click Image for Full Size" src="./Results/Image4.PNG" width="200" height="400">](https://github.com/eldarias/Mission-to-Mars/blob/main/Results/Image4.PNG)<b></b>
+    - [<image src="./Results/Image4.PNG" width="200" height="400">](https://github.com/eldarias/Mission-to-Mars/blob/main/Results/Image4.PNG)<b></b>
 - Display with basic CSS style changes
-    - [<image alt="Click Image for Full Size" src="./Results/Image2.PNG" width="200" height="350">](https://github.com/eldarias/Mission-to-Mars/blob/main/Results/Image2.PNG)<b></b>
+    - [<image src="./Results/Image2.PNG" width="200" height="350">](https://github.com/eldarias/Mission-to-Mars/blob/main/Results/Image2.PNG)<b></b>
 - Display using iPhone 12 Pro dimensions
-    - [<image alt="Click Image for Full Size" src="./Results/Image3.PNG" width="200" height="250">](https://github.com/eldarias/Mission-to-Mars/blob/main/Results/Image3.PNG)<b></b>
+    - [<image src="./Results/Image3.PNG" width="200" height="250">](https://github.com/eldarias/Mission-to-Mars/blob/main/Results/Image3.PNG)<b></b>
 
 
 ## Summary
